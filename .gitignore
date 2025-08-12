@@ -1,0 +1,31 @@
+# Java
+*.class
+*.jar
+
+# IntelliJ
+.idea/
+out/
+
+# VS Code
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# MacOS
+.DS_Store
+
+# Custom/Temporary Files
+# Exclude all encrypted/decrypted output and test input files
+*.encrypted
+*.decrypted
+test.txt
+my_secret.txt
